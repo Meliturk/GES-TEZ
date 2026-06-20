@@ -1,0 +1,15 @@
+GES IoT Kodları Ekleme Notu
+===========================
+
+Bu paket, kullanıcı tarafından paylaşılan ESP32 ve PC terminal kodlarının GitHub/tez için temizlenmiş sürümünü içerir.
+
+Temizlenen alanlar:
+- Wi-Fi SSID
+- Wi-Fi şifresi
+- JupyterHub token bilgileri
+- Yerel IP adresleri / sunucu adresleri
+
+Orijinal çalışan kodlar yerel bilgisayarda saklanabilir; ancak GitHub'a gizli bilgilerle yüklenmemelidir.
+
+Proje klasörüne kopyalama:
+Bu paketin içindeki `hardware`, `iot_terminal` ve `docs` klasörleri, mevcut `GES_AI` proje klasörünün içine kopyalanmalıdır.
